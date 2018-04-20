@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExercicioURI1168 {
+public class String1168 {
 
 	public static void main(String[] args) {
 
