@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ExercicioURI2174 {
+public class String2174 {
 
 	public static void main(String[] args) throws IOException {
 
